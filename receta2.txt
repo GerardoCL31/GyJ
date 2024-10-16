@@ -2,3 +2,4 @@ Receta de lasaña
 - pasta
 - tomate
 - queso
+- carne
